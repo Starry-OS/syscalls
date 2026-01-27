@@ -839,5 +839,5 @@ syscall_enum! {
         tee_scn_cache_operation = 570,
         tee_scn_test = 571,
     }
-    LAST: tee_scn_test = 571,;
+    LAST: tee_scn_test;
 }
